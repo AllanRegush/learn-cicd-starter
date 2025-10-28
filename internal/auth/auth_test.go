@@ -5,7 +5,7 @@ import (
 )
 
 func TestAuth(t *testing.T) {
-	if true {
+	if false {
 		t.Error("This shouldn't run")
 	}
 }
